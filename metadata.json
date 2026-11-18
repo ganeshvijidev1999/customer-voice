@@ -1,0 +1,8 @@
+{
+  "name": "Remix Voice of Customer Copilot",
+  "description": "Turn raw customer feedback into prioritized product insights and actionable recommendations using intelligent AI-driven analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
